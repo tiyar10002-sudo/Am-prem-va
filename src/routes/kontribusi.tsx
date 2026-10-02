@@ -56,7 +56,7 @@ function KontribusiPage() {
           />
         </div>
 
-        <h1 className="mt-5 text-3xl font-bold text-foreground sm:text-4xl">Nimzz</h1>
+        <h1 className="mt-5 text-3xl font-bold text-foreground sm:text-4xl">Kyo</h1>
         <p className="mt-2 text-sm text-muted-foreground">Pembuat & Pengelola Layanan</p>
 
         <p className="mt-6 max-w-lg text-sm leading-relaxed text-muted-foreground">
