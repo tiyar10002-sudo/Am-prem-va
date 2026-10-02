@@ -36,7 +36,7 @@ function KontribusiPage() {
       <div className="relative h-48 w-full overflow-hidden sm:h-64">
         <img
           src="/banner.jpg"
-          alt="Banner Nimzz"
+          alt="Banner Kyo"
           className="h-full w-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/40 to-transparent" />
@@ -49,7 +49,7 @@ function KontribusiPage() {
         >
           <img
             src="/avatar.jpg"
-            alt="Avatar Nimzz"
+            alt="Avatar Kyo"
             width={736}
             height={736}
             className="absolute inset-0 h-full w-full object-cover"
