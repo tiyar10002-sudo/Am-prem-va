@@ -2,7 +2,7 @@
 
 # Alight Motion Premium Creator
 
-**Layanan gratis & unofficial** untuk aktivasi Alight Motion Premium, dibuat oleh **Nimzz**.
+**Layanan gratis & unofficial** untuk aktivasi Alight Motion Premium, dibuat oleh **Kyo**.
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![TanStack Start](https://img.shields.io/badge/TanStack-Start-FF4154?logo=reactrouter&logoColor=white)
@@ -39,7 +39,7 @@ Website ini adalah **frontend** untuk API aktivasi Alight Motion Premium yang su
 tersebut: mengirim *magic link* ke email pengguna, lalu memverifikasinya untuk mengaktifkan
 status Premium.
 
-Dibangun dengan **React 19 + TanStack Start (SSR)**, dan dilengkapi asisten chat AI ("Nimzz AI")
+Dibangun dengan **React 19 + TanStack Start (SSR)**, dan dilengkapi asisten chat AI ("Kyo AI")
 untuk membantu pengguna yang stuck di tengah proses aktivasi.
 
 ## Fitur & Halaman
@@ -192,4 +192,4 @@ lisensi terbuka sebelum di-publish.
 
 ---
 
-Dibuat dengan ❤️ oleh **Nimzz**.
+Dibuat dengan ❤️ oleh **Kyo**.
